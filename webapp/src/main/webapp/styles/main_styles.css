@@ -1149,7 +1149,7 @@ input:last-of-type
 	font-family: 'Roboto', sans-serif;
 	font-size: 22px;
 	font-weight: 500;
-	color: #1a1a1a;
+	color: #777777;
 	margin-bottom: 13px;
 }
 .service_item p
@@ -1165,6 +1165,13 @@ input:last-of-type
 	height: 41px;
 	width: auto;
 	margin-bottom: 30px;
+}
+.icon_container_nm
+{
+	height: 41px;
+	width: 60px;
+	margin-bottom: 0px;
+	margin-right: 20px;
 }
 .icon_container img
 {

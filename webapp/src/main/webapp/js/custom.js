@@ -102,7 +102,7 @@ $(document).ready(function()
 				items:1,
 				loop:true,
 				smartSpeed:800,
-				autoplay:true,
+				autoplay:false,
 				nav:false,
 				dots:false
 			});
