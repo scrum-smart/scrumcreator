@@ -1,0 +1,1 @@
+mongoimport -h ds145881.mlab.com:45881 -d scrumcreator -c scrumpractice -u user -p user12 --file C:\proj\dev\scrumcreator\scripts\Scrum_Maturity_Assessment_Practices.txt --type tsv --headerline
